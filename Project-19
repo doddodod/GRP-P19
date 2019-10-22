@@ -1,0 +1,49 @@
+Project19
+GUI programming and face recognition/identification with Python.
+
+core functionality {
+	recognize and identify the faces of the students enrolled in a specific module.
+	recording time of arrival of the students given the time schedule once the face of the student is identified.
+	statistical data such as how many students have attended for the current session and who are missing.
+	how many classes are missed by a specific student.
+	// addition
+	student information database{
+		Face 
+		Student id
+	}
+	management log in, set lecture time, search data from particular lecture or student.
+	adminstrator log in, set parametor to adjust accuracy.
+}
+
+tasks {
+	1) overall system design;
+	2) face recognition design and development, data related function design and development;
+	3) GUI design and development;
+	4) testing at different levels
+}
+
+Questions {
+	formal meeting time schedual.
+	time plan.
+	website functionality.
+	open source library or codes.
+	exist hardware or buy new one.
+	a camera or anything else.
+	database/data structure.
+	accuracy.
+}
+
+Week 1 {
+	time plan.
+	use case diagram.
+	website design.
+	python.
+}
+
+
+
+
+
+
+
+
