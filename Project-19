@@ -22,7 +22,7 @@ tasks {
 	4) testing at different levels
 }
 
-Questions {
+meeting 1 {
 	formal meeting time schedual.
 	time plan.
 	website functionality.
@@ -40,7 +40,17 @@ Week 1 {
 	python.
 }
 
-
+meeting 2 {
+	done{
+		website			// not finished yet
+		use case diagram
+		time plan 		// gantt chart
+	}
+	Todo{
+		user requirement specification
+	}
+	prototype and UI design
+}
 
 
 
