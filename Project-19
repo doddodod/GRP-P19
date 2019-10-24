@@ -52,6 +52,38 @@ meeting 2 {
 	prototype and UI design
 }
 
+Week 2 {
+	requirement analysis{
+		//todo
+	}
+	use case diagram{
+		// more detailed
+		view -> search
+		face info -> image
+		modify -> add / delete
+	}
+	class diagram and sequence diagram{
+		//todo
+	}
+	
+	Software Process Models{
+		water-fall
+		design -> develop
+	}
+	UI design{
+		//todo
+	}
+	camera function{
+		//todo
+	}
+	four parts{
+		UI
+		DB
+		camera based
+		DB based
+	}
+	develop seperate parts and then integrate 
+}
 
 
 
