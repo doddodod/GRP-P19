@@ -12,7 +12,7 @@ core functionality {
 		Student id
 	}
 	management log in, set lecture time, search data from particular lecture or student.
-	adminstrator log in, set parametor to adjust accuracy.
+	adminstrator log in, set parameter to adjust accuracy.
 }
 
 tasks {
@@ -41,7 +41,7 @@ Week 1 {
 }
 
 meeting 2 {
-	done{
+	Done{
 		website			// not finished yet
 		use case diagram
 		time plan 		// gantt chart
@@ -53,36 +53,28 @@ meeting 2 {
 }
 
 Week 2 {
-	requirement analysis{
-		//todo
+	Todo{
+		requirement analysis
+		class diagram
+		component diagram
+		sequence diagram
+		UI design
+		camera function
 	}
 	use case diagram{
-		// more detailed
-		view -> search
-		face info -> image
-		modify -> add / delete
+		// need to be more detailed
+		change 'view' to 'search'
+		change 'face info' to 'image'
+		change 'modify' to 'add / delete / update'
 	}
-	class diagram and sequence diagram{
-		//todo
-	}
-	
 	Software Process Models{
-		water-fall
-		design -> develop
-	}
-	UI design{
-		//todo
-	}
-	camera function{
-		//todo
+		use water-fall model process
+		first design, then develop
 	}
 	four parts{
-		UI
-		DB
-		camera based
-		DB based
+		//develop seperate parts and then integrate 
+		UI, DB, camera based and DB based
 	}
-	develop seperate parts and then integrate 
 }
 
 
