@@ -77,7 +77,52 @@ Week 2 {
 	}
 }
 
+meeting 3{
+	check timeline
+	check usecase diagram
+	check class diagram
+}
 
+week 3 {
+	Modify the class diagram {
+		// about name format
+		the first letter of class name should all be in capital and use only one word: TeachingSession
+		the first letter of attribute in the class should all be in lower-case: groupID
+		// about all the controller class
+		the relationship between Teacher class and TeacherController class should be Inheritance(trangle arrow)
+		the relationship between Admin class and AdminController class should be Inheritance(trangle arrow)
+		the relationship between Teacher class, Admin class and PublicControl class should be Inheritance(trangle arrow)
+		// about Module class
+		the relationship between Student class and Module class should be Aggregation(hollow diamond)
+		the relationship between Module class and Group class should be Composition(solid diamond)
+		// about Teacher class
+		the relationship between Teacher class and Module class should be Association(single arrow)
+		link Teacher class and TeachingSession class using Aggregation, add [tutor:Teacher] into TeachingSession
+		// about Teaching session
+		the relationship between TeachingSession class and Group class should be Association(single arrow)
+		// about Attendence class
+		the relationship between Student class and Attendence class can be removed
+		// about FaceFetector class
+		the relationship between TeacherController class and FaceDetector class？
+		the relationship between FaceDetector class and attendence class？
+		// about attribute
+		in Module class: tutor should be Arraylist<Teacher>
+		in Module/Group class: enrolledStudent should be Arraylist<Student>
+		in Attendence class: attendStudent can be removed
+		// about method
+		in FaceDetector class should have identify, reconigize, record and sendComfirmation method
+		// about main method
+		where to put main method
+	}
+	Modify timeline
+	Modify use case diagram
+}
+
+meeting 4{
+	class diagram
+	UI design
+	
+}
 
 
 
