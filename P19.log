@@ -36,8 +36,17 @@ Submitted ethic checklist.
 
 2019.11.01
 3rd informal meeting
-Identify all the class in the class diagram
-Unify all the method name in class diagram and method checklist
+Identify all the class in the class diagram.
+Unify all the method name in class diagram and method checklist.
 
 2019.11.05
-List suggestion about class diagram
+List suggestion about class diagram.
+
+2019.11.07
+4th formal meeting
+Review Class Diagram.
+Need to consider the relationship between classes according to the code design.
+
+2019.11.09
+4th informal meeting
+Basic UI design for log in page and teacher page, including module selection and lecture selection.

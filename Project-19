@@ -23,21 +23,21 @@ tasks {
 }
 
 meeting 1 {
-	formal meeting time schedual.
-	time plan.
-	website functionality.
-	open source library or codes.
-	exist hardware or buy new one.
-	a camera or anything else.
-	database/data structure.
-	accuracy.
+	formal meeting time schedual
+	time plan
+	website functionality
+	open source library or codes
+	exist hardware or buy new one
+	a camera or anything else
+	database/data structure
+	accuracy
 }
 
 Week 1 {
-	time plan.
-	use case diagram.
-	website design.
-	python.
+	time plan
+	use case diagram
+	website design
+	python
 }
 
 meeting 2 {
@@ -120,9 +120,16 @@ week 3 {
 
 meeting 4{
 	class diagram
+	link to the database
 	UI design
-	
 }
 
+week 4{
+	UI design for log in page and teacher page.
+	Modify class diagram {
+		reconsider the relationship between the classes
+		reconsider where to put the method
+	}
+}
 
 
