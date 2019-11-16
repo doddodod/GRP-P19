@@ -132,4 +132,29 @@ week 4{
 	}
 }
 
+meeting 5{
+	Todo{
+		delete type in log in page
+		teacher cannot delete the lecture
+		resume function
+		general search show everything correctly
+		have a summary of the attendence of the student
+		searching for student with the same name
+		detailed student attendence information
+		need to be easy to change the status
+		add command for changing
+		start a session when time is wrong
+		add time and rate on the record page
+		summary for the session/module/student
+		if cannot be recognized(can take a photo and add command)
+		class diagram{
+			people - public controller
+			rename public controller -> general
+			rename people -> staff
+		}
+		sequence diagram
+		market research
+	}
+}
+
 
